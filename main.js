@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 document.addEventListener("DOMContentLoaded", function() {
     // Mobile navigation toggle
     const navToggle = document.querySelector(".nav-toggle");
